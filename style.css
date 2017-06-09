@@ -1,0 +1,18 @@
+.label {
+    margin: 5px;
+}
+
+.label:last-child {
+    margin-left: 0px;
+}
+
+.label:last-child {
+    margin-right: 0px;
+}
+
+.button-group li {
+    background-color: #eaeaea;
+    border-radius: 5px;
+    margin: 1px;
+    padding: 0 5px;
+}
